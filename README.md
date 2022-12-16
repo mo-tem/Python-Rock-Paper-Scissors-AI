@@ -1,19 +1,105 @@
-# Welcome to the Carleton AI Society Fall 2019 project!
+# We are the members of the project team!
 
-We're going to be making an artificial intelligence that wins at Rock, Paper, Scissors!
-It's been done before, but it's a good project to get your feet wet in AI.
+Please add yourself to the list to officially join the project team.
+If you're not sure how we'll show you at the next project meeting.
 
-### Task 1: Open the shared google doc.
-[Project Google Doc](https://docs.google.com/document/d/1oG6n_vd1Fgdpourc7Dl1LbjLy_fLD1V5E2WEWUQd4TA/edit?usp=sharing)
+Add your name, major, favorite programming language, github username, and anything else you'd like.
 
-We will create a project outline before we leave today.
+## Samantha Sieklicki
+<p align="left">
+  <img src="images/SamanthaSieklicki.jpg" width="200" title="Samantha Sieklicki">
+</p>
+Math, 4th Year, Python
 
-### Task 2: add your name to the project members readme file.
+GitHub: sjsPuzzler
 
-### Task 3: run the demo-file on your computer.
+## David Araya
+Computer Science, 4th year, COBOL, I would like to stop Climate Change
 
-I suggest you use a pretty code viewing text editor like this: https://www.sublimetext.com/.
+GitHub: david-araya
 
-Find the demo files with a description here: https://github.com/sachag678/freeCodeCamp.
+## Hamza Sohail
+Computer Science, 1st Year, Python, Java and C/C++
 
-Save the html and js files on your computer in the same folder and open the html file.
+GitHub: h4sohail
+
+## Shane Fernandes
+
+Computer Science, 1st Year, Python and Java
+
+GitHub: shane-f03
+
+## Musa Ali
+
+Computer Science, 1st Year, Python and Java
+
+GitHub: hellomusa
+
+## Kelvin Tran
+Computer Science, 3rd Year
+
+GitHub: kelvinttran
+
+## Kevin Wu
+
+Cognitive Science, 1st Year, Python
+
+GitHub: blankkcanvas
+
+## Manoj Goli
+Computer Engineering, Python
+
+GitHub: manoj-goli
+
+## Revanth Sridhar
+MEng with a specialization in Data Science
+
+GitHub: Revanth91
+
+## Julia Cai
+Computer Science, 3rd Year
+
+GitHub: juliaziqingcai
+
+Fun fact: I'm only 151cm tall!
+
+## Deen Haque
+Second Year Undergrad Computer Science c:
+
+Fav Language: English hehe
+
+GitHub: deenhaque
+
+Yeah, I'm pretty great.
+
+## Hasan Baig
+Computer Systems, 3rd Year
+
+GitHub: Hasan-Baig
+
+## Emmanuel Dairo
+4th year comp sci: java is my strongest suit, I have experience with JS,C and C++
+
+GitHub: emmanueldairo
+
+## Mohamed Temkit
+Computer Science, 1st Year
+
+GitHub: mtemkit
+
+## Johnny Park
+Stat, 1st Year
+
+GitHub: JohnnyPark99
+
+## Gordon Tang
+Computer Science, 1st year
+
+GitHub: coffeeboost
+
+## Mital Raithatha
+MSc Systems and Computer Engineering
+
+GitHub: mitalraithatha
+
+Languages: C, Matlab
