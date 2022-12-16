@@ -1,7 +1,7 @@
-# Carleton AI Society Project
+# Rock-Paper-Scissors-Project
 
-### Project:
-Making an artificial intelligence that wins at Rock, Paper, Scissors.
+###Summary:
+The Carleton AI Society Team developed this Rock Paper Scissors AI in 2019.
 
 ### Language: 
 
@@ -12,22 +12,22 @@ Python (3.0)
 Matplotlib & NumPy
 
 ### Team Members
-Mohamed Temkit
-Samantha Sieklicki
-David Araya
-Hamza Sohail
-Shane Fernandes
-Musa Ali
-Kelvin Tran
-Kevin Wu
-Manoj Goli
-Revanth Sridhar
-Julia Cai
-Deen Haque
-Hasan Baig
-Emmanuel Dairo
-Johnny Park
-Gordon Tang
+Mohamed Temkit\
+Samantha Sieklicki\
+David Araya\
+Hamza Sohail\
+Shane Fernandes\
+Musa Ali\
+Kelvin Tran\
+Kevin Wu\
+Manoj Goli\
+Revanth Sridhar\
+Julia Cai\
+Deen Haque\
+Hasan Baig\
+Emmanuel Dairo\
+Johnny Park\
+Gordon Tang\
 Mital Raithatha
 
 ### Challenge:
