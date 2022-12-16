@@ -1,16 +1,52 @@
-# We are the members of the project team!
+# Members of the Project Team
 
-Please add yourself to the list to officially join the project team.
-If you're not sure how we'll show you at the next project meeting.
-
-Add your name, major, favorite programming language, github username, and anything else you'd like.
+## Mohamed Temkit
+GitHub: mtemkit
 
 ## Samantha Sieklicki
-<p align="left">
-  <img src="images/SamanthaSieklicki.jpg" width="200" title="Samantha Sieklicki">
-</p>
-Math, 4th Year, Python
+GitHub: sjsPuzzler
 
 ## David Araya
+GitHub: david-araya
 
-Github: sjsPuzzler
+## Hamza Sohail
+GitHub: h4sohail
+
+## Shane Fernandes
+GitHub: shane-f03
+
+## Musa Ali
+GitHub: hellomusa
+
+## Kelvin Tran
+GitHub: kelvinttran
+
+## Kevin Wu
+GitHub: blankkcanvas
+
+## Manoj Goli
+GitHub: manoj-goli
+
+## Revanth Sridhar
+GitHub: Revanth91
+
+## Julia Cai
+GitHub: juliaziqingcai
+
+## Deen Haque
+GitHub: deenhaque
+
+## Hasan Baig
+GitHub: Hasan-Baig
+
+## Emmanuel Dairo
+GitHub: emmanueldairo
+
+## Johnny Park
+GitHub: JohnnyPark99
+
+## Gordon Tang
+GitHub: coffeeboost
+
+## Mital Raithatha
+GitHub: mitalraithatha

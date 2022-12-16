@@ -1,97 +1,39 @@
-# Members of the Project Team
+# Carleton AI Society Project
 
-## Samantha Sieklicki
-Math, 4th Year, Python
+### Project:
+Making an artificial intelligence that wins at Rock, Paper, Scissors.
 
-GitHub: sjsPuzzler
+### Language: 
 
-## David Araya
-Computer Science, 4th year, COBOL, I would like to stop Climate Change
+Python (3.0) 
 
-GitHub: david-araya
+### Libraries:
 
-## Hamza Sohail
-Computer Science, 1st Year, Python, Java and C/C++
+Matplotlib & NumPy
 
-GitHub: h4sohail
+### Team Members
+Mohamed Temkit
+Samantha Sieklicki
+David Araya
+Hamza Sohail
+Shane Fernandes
+Musa Ali
+Kelvin Tran
+Kevin Wu
+Manoj Goli
+Revanth Sridhar
+Julia Cai
+Deen Haque
+Hasan Baig
+Emmanuel Dairo
+Johnny Park
+Gordon Tang
+Mital Raithatha
 
-## Shane Fernandes
+### Challenge:
 
-Computer Science, 1st Year, Python and Java
+https://towardsdatascience.com/how-to-win-over-70-matches-in-rock-paper-scissors-3e17e67e0dab
 
-GitHub: shane-f03
+### [Project Google Doc](https://docs.google.com/document/d/1oG6n_vd1Fgdpourc7Dl1LbjLy_fLD1V5E2WEWUQd4TA/edit?usp=sharing)
 
-## Musa Ali
-
-Computer Science, 1st Year, Python and Java
-
-GitHub: hellomusa
-
-## Kelvin Tran
-Computer Science, 3rd Year
-
-GitHub: kelvinttran
-
-## Kevin Wu
-
-Cognitive Science, 1st Year, Python
-
-GitHub: blankkcanvas
-
-## Manoj Goli
-Computer Engineering, Python
-
-GitHub: manoj-goli
-
-## Revanth Sridhar
-MEng with a specialization in Data Science
-
-GitHub: Revanth91
-
-## Julia Cai
-Computer Science, 3rd Year
-
-GitHub: juliaziqingcai
-
-Fun fact: I'm only 151cm tall!
-
-## Deen Haque
-Second Year Undergrad Computer Science c:
-
-Fav Language: English hehe
-
-GitHub: deenhaque
-
-Yeah, I'm pretty great.
-
-## Hasan Baig
-Computer Systems, 3rd Year
-
-GitHub: Hasan-Baig
-
-## Emmanuel Dairo
-4th year comp sci: java is my strongest suit, I have experience with JS,C and C++
-
-GitHub: emmanueldairo
-
-## Mohamed Temkit
-Computer Science, 1st Year
-
-GitHub: mtemkit
-
-## Johnny Park
-Stat, 1st Year
-
-GitHub: JohnnyPark99
-
-## Gordon Tang
-Computer Science, 1st year
-
-GitHub: coffeeboost
-
-## Mital Raithatha
-MSc Systems and Computer Engineering
-
-GitHub: mitalraithatha
-
-Languages: C, Matlab
+### [Project UML Outline](https://drive.google.com/file/d/1WUv93TYrMRMko8XCpfw0i1ucC9A3nPNP/view?usp=sharing)
