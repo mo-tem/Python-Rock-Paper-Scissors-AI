@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors-Project
 
-###Summary:
+### Summary:
 The Carleton AI Society Team developed this Rock Paper Scissors AI in 2019.
 
 ### Language: 
@@ -11,7 +11,8 @@ Python (3.0)
 
 Matplotlib & NumPy
 
-### Team Members
+### Team Members:
+
 Mohamed Temkit\
 Samantha Sieklicki\
 David Araya\
