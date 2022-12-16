@@ -1,9 +1,6 @@
 # Members of the Project Team
 
 ## Samantha Sieklicki
-<p align="left">
-  <img src="images/SamanthaSieklicki.jpg" width="200" title="Samantha Sieklicki">
-</p>
 Math, 4th Year, Python
 
 GitHub: sjsPuzzler
