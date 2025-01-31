@@ -1,7 +1,7 @@
 # Members of the Project Team
 
-## Mohamed Temkit
-GitHub: mtemkit
+## Moh Tem
+GitHub: mo-tem
 
 ## Samantha Sieklicki
 GitHub: sjsPuzzler
