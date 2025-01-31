@@ -13,7 +13,6 @@ Matplotlib & NumPy
 
 ### Team Members:
 
-Mohamed Temkit\
 Samantha Sieklicki\
 David Araya\
 Hamza Sohail\
